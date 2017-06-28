@@ -14,8 +14,6 @@ This is an Open Access article distributed under the terms of the Creative Commo
 
 Permission to re-use granted by Dr. Eirik Frengen, 28/7/17
 
-Figure 1
-
 ### Row 1, Column 2
 ### Row 1, Column 3
 ### Row 1, Column 4
