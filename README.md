@@ -1,38 +1,7 @@
 # mining_faces
-Code and citations for Mining Faces from Biomedical Literature using Deep Learning
+## Code and citations for Mining Faces from Biomedical Literature using Deep Learning (ACM-BCB 17)
 
 <p align="center">
-	<img src="PosNegFinal-min.jpg" width="600" height="600">
+	<img src="PosNegFinal-min.jpg" width="500" height="500">
 </p>
 
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
-#### Row 1, Column 1
