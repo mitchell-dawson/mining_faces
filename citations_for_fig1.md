@@ -5,6 +5,8 @@
 </p>
 
 
+## Row 1
+
 ### Row 1, Column 1
 
 Barøy, Tuva, et al. "Haploinsufficiency of two histone modifier genes on 6p22. 3, ATXN1 and JARID2, is associated with intellectual disability." Orphanet journal of rare diseases 8.1 (2013): 3.
@@ -15,8 +17,26 @@ This is an Open Access article distributed under the terms of the Creative Commo
 Permission to re-use granted by Dr. Eirik Frengen, 28/7/17
 
 ### Row 1, Column 2
+
+Mefford, Heather C., et al. "Further clinical and molecular delineation of the 15q24 microdeletion syndrome." Journal of medical genetics 49.2 (2012): 110-118.
+
+Copyright © 2012, Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions.
+This is an open-access article distributed under the terms of the Creative Commons Attribution Non-commercial License, which permits use, distribution, and reproduction in any medium, provided the original work is properly cited, the use is non commercial and is otherwise in compliance with the license. See:http://creativecommons.org/licenses/by-nc/2.0/ and http://creativecommons.org/licenses/by-nc/2.0/legalcode.
+
+Permission to re-use granted by Dr. Heather Mefford, 29/7/16
+
 ### Row 1, Column 3
+
+Gregory, Louise C., et al. "Structural pituitary abnormalities associated with CHARGE syndrome." The Journal of Clinical Endocrinology & Metabolism98.4 (2013): E737-E743.
+
+Copyright © 2013 by The Endocrine Society
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/us/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Permission to re-use granted by Professor Mehul Dattani, 2/8/16
+
 ### Row 1, Column 4
+
+## Row 2
 
 ### Row 2, Column 1
 ### Row 2, Column 2
