@@ -1,5 +1,10 @@
 # Citations for Fig. 1
 
+<p align="center">
+	<img src="PosNegFinal-min.jpg" width="500" height="500">
+</p>
+
+
 ### Row 1, Column 1
 
 Barøy, Tuva, et al. "Haploinsufficiency of two histone modifier genes on 6p22. 3, ATXN1 and JARID2, is associated with intellectual disability." Orphanet journal of rare diseases 8.1 (2013): 3.
