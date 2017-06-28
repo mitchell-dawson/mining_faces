@@ -1,4 +1,4 @@
-# Citations for Fig. 1
+# Citations for images used in Figure 1
 
 <p align="center">
 	<img src="PosNegFinal-min.jpg" width="500" height="500">
